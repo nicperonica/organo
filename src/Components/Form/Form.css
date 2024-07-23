@@ -1,13 +1,17 @@
 .form{
     display: flex;
     justify-content: center;
-    margin: 80px 0px;
+    margin: 60px 0px;
 }
 
 .form form{
-    max-width: 80%;
+    max-width: 70%;
     background-color: #F2F2F2;
     border-radius: 16px;
     padding: 32px 64px;
     box-shadow: 8px 8px 16px rgba(0,0,0,0.2);
+}
+
+.form h2{
+    font-size: 22px;
 }

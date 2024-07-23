@@ -1,6 +1,6 @@
 import './Banner.css'
 
-const Index = () => {
+const Banner = () => {
     return (
         <header className="banner">
             <img src="/Images/banner.png" />
@@ -8,4 +8,4 @@ const Index = () => {
     )
 }
 
-export default Index
+export default Banner

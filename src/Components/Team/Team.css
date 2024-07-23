@@ -1,0 +1,23 @@
+.team{
+    text-align: center;
+    padding: 16px;
+}
+
+.team h3{
+    margin: 0;
+    color: black;
+}
+
+.team hr{
+    width: 10px;
+    border: none;
+    height: 3px;
+    margin: 10px auto;
+}
+
+.team .collabs{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}

@@ -1,0 +1,9 @@
+.banner{
+    background-color: #6278F7;
+    text-align: center;
+    height: 250px;
+}
+
+.banner img{
+    height: 100%;
+}
